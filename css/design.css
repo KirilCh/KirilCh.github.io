@@ -1,4 +1,4 @@
-body{background-image: url(images/camping.jpg);
+body{background-image: url(images/camping.png);
 background-size: cover;
 }
 body{font-family: Arial, Helvetica, sans-serif;font-style: initial;}
@@ -48,14 +48,15 @@ body{font-family: Arial, Helvetica, sans-serif;font-style: initial;}
 	content: "\2796"; /* Unicode character for "minus" sign (-) */
   }
 
-h1{color:purple}
-h2{color:purple;}
+h1{color:whitesmoke}
+h2{color:whitesmoke;}
 
 .myButton {
 	box-shadow:inset 0px 1px 0px 0px #efdcfb;
 	background:linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
 	background-color:#dfbdfa;
 	border-radius:15px;
+	opacity: 0.9;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
